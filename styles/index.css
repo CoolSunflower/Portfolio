@@ -2270,7 +2270,7 @@ html {
   
   .display.is--mail {
     transition: opacity .2s cubic-bezier(.455, .03, .515, .955);
-    font-size: 5em;
+    font-size: 3.5em;
   }
   
   .display.is--mail:hover {
@@ -2991,7 +2991,7 @@ html {
     }
   
     .display.is--mail {
-      font-size: 8em;
+      font-size: 1em;
     }
   
     .display.is--project {
@@ -3327,7 +3327,7 @@ html {
     }
   
     .display.is--mail {
-      font-size: 9em;
+      font-size: 5em;
     }
   
     .display.is--project {
